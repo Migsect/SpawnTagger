@@ -1,0 +1,11 @@
+name: SpawnTagger
+main: net.samongi.SpawnTagger.SpawnTagger
+version: 0.0
+description: Allows the tracking of spawns and saving them to a formatted file
+author: Migsect
+depend: [SamongiLib]
+commands: 
+    spawntagger:
+        description: This is the hub command for the plugin.
+        usage: /<command>
+        aliases: [st]

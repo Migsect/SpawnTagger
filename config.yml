@@ -1,0 +1,3 @@
+debug: true
+save-location: "%PLUGIN_FOLDER%/exports/%PLAYER_NAME%/%TIME%.txt"
+access-location: "%PLUGIN_FOLDER%/exports/%PLAYER_NAME%/%TIME%.txt"
